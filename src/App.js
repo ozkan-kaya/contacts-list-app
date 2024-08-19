@@ -1,4 +1,3 @@
-import './App.css';
 import ContactsList from "./ContactsList";
 
 function App() {
