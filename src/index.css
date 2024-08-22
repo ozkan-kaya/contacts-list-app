@@ -113,12 +113,15 @@ body {
   margin: 5px 0;
 }
 
+.contact-description {
+  color: #889db0;
+}
+
 .contact-actions i {
   font-size: 16px;
   color: white;
 }
 
-/* Pop-up Modal Styles */
 .popup-overlay {
   position: fixed;
   top: 0;
